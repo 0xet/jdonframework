@@ -19,4 +19,4 @@ export const NFTCard = ({ nft }) => {
 
     </div>
     )
-} 
+}
